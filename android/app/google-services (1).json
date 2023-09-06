@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189075726098",
+    "project_id": "ecomerceappflutter",
+    "storage_bucket": "ecomerceappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189075726098:android:f11856201255db4abeddcb",
+        "android_client_info": {
+          "package_name": "com.shahbaztech.EcomerceAppflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189075726098-q17p7ar1s5lptrcl9srbcjssoctiqrse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOtIHg29s2oYDo7IrmWP5L2WkrDfnut0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189075726098-q17p7ar1s5lptrcl9srbcjssoctiqrse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
